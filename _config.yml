@@ -1,31 +1,31 @@
 
-title: LDAV 2021
-email: ldav@ieeevis.org
+title: EGPGV 2022
+email: gpapers@egpgv.org
 baseurl: ""
-url: "http://ldav.org"
+url: "http://egpgv.org"
 
 # --- site config ---
 
 description: > 
-  The 11th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2021, New Orleans, Louisiana, USA, October 25, 2021
+  The Eurographics Symposium on Parallel Graphics and Visualization in conjunction with EuroVis 2022, Rome, Italy, June 13, 2022
 
 navigation:
  - title: Home
    url: index.html
- - title: Program
-   url: program.html
- - title: Presentation and Final Submission Information
-   url: presenters.html 
- - title: Call for Papers
-   url: call-for-papers.html
- - title: Call for Posters
-   url: call-for-posters.html
+ # - title: Program
+ #   url: program.html
+ # - title: Presentation and Final Submission Information
+ #   url: presenters.html 
+ # - title: Call for Papers
+ #   url: call-for-papers.html
+ # - title: Call for Posters
+ #   url: call-for-posters.html
 #  - title: Supporters
 #    url: supporters.html
 # - title: Important Dates
 #   url: important-dates.html
- - title: Organization
-   url: organization.html
+ # - title: Organization
+ #   url: organization.html
 
 # --- end site config ---
 

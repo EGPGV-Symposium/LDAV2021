@@ -1,25 +1,25 @@
 # Important Dates
 
+# Early Submission
 
+Early Paper Abstracts
+: December 6, 2021
+
+Early Paper Submissions
+: December 13, 2021
+
+Early Author Notifications
+: January 24, 2022
+
+# Regular Submission
 
 Paper Abstracts
-: June 21, 2021
+: February 25, 2022
 
 Paper Submissions
-: June 25, 2021
+: March 04, 2021
 
-Author Notifications
-: July 30, 2021
-
-Camera-Ready Deadline
-: August 15, 2021
-
-Poster Submissions
-: August 22, 2021
-
-Presentation Videos
-: September 15, 2021
 
 ## Symposium
 
-**October 25, 2021**
+**June 13, 2022**
